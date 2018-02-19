@@ -2,7 +2,7 @@
   <b><a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf">CV </a>  | 
   <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>  | 
      justinsola at gmail dot com
-  </b><br>
+  </b><br><br>
 <img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg">
 </p>
 
