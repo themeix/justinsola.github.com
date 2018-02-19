@@ -1,8 +1,6 @@
-Aspiring PhD student considering programs in public health, sociology, and criminology
+**[CV](https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf) – [LinkedIn](https://www.linkedin.com/in/justinlucassola/) – justinsola at gmail dot com **
 
-**[CV](https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf)** – **[LinkedIn](https://www.linkedin.com/in/justinlucassola/)** – _justinsola at gmail dot com_
-
-![Image](https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_small.jpg)
+![Image](https://github.com/justinsola/justinsola.github.com/raw/master/files/web_pic_very_small.jpg)
 
 ## About me
 2014 Harvard grad with honors in [Social Studies](https://socialstudies.fas.harvard.edu/) and a secondary in Psychology; my senior thesis was on the social order ideals of 36 gun owners and police officers. Since then I've built models and conducted research as a business strategy consultant at [Endeavour Partners](https://endeavour.partners/about/) for smartphone, wireless, reinsurance, and infrastructure companies.
