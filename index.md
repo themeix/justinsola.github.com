@@ -20,7 +20,7 @@
 </p>
 
 ## About me
-2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research Details_). Since 2014 I've built models and conducted business strategy research tech, reinsurance, and infrastructure companies as a consultant at [Endeavour Partners](https://endeavour.partners/about/).
+2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research Details_). Since 2014 I've built models and conducted business strategy research for tech, reinsurance, and infrastructure companies as a consultant at [Endeavour Partners](https://endeavour.partners/about/).
 
 I look forward to mixed-methods research on the drivers of [legal gun acquisition](https://github.com/justinsola/justinsola.github.com/raw/master/files/Approx_US_Firearm_Sales_by_Month_(Jan1999-Aug2017).pdf), flows into illegal gun markets, and how legal and illegal guns influence [health outcomes](https://github.com/justinsola/justinsola.github.com/raw/master/files/US_Firearm_Deaths_by_Type_(1999-2015).pdf). My plan is to excel in statistics, criminology, and sociology coursework to further my research, and also to better understand the role of socioeconomic inequality in gun violence. I want to conduct research that, to paraphrase Peter Bearman, exhibits formal rigor, respects the actors by placing them in the right action frames, and that imputes motives that are adequately.
 
@@ -30,10 +30,10 @@ Outside of study I like building computers, reading science fiction, making beef
 
 In my junior year at Harvard two discrepancies catalyzed my  research:
 
-**First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. Gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complimented it by ensuring their personal safety.
+**First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. But US gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complimented it by ensuring their personal safety.
 
 **Second**, I felt that there wasn't enough sociological research on US gun ownership; most was concerned with outcome than mechanism and motive, like David Hemenway’s seminal statistical analyses. As Randall Collins said about the study of US gun ownership:
->it is not a sociological explanation of behavior to invoke the reasons given, especially on occasions of public justification and debate....Instead we should ask, 'Why do particular people come to believe in these reasons, or rather, in what circumstances do they invoke them....What is it that possessors of guns do?' – Interaction Ritual Chains (2004)
+>It is not a sociological explanation of behavior to invoke the reasons given, especially on occasions of public justification and debate .... Instead we should ask, 'Why do particular people come to believe in these reasons, or rather, in what circumstances do they invoke them .... What is it that possessors of guns do?' – Interaction Ritual Chains (2004)
 
 For my thesis I conducted semi-structured interviews with 36 gun owners and police from Vermont and Massachusetts. I sought to understand how participants believed responsibility for welfare and security should be divided among individuals, families, communities, and governments. I coded these beliefs and narratives, comparing participants' beliefs with both their gun ownership practices (such as guns owned and concealed carry behavior) and their gun control stances.
 
