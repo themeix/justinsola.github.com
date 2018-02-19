@@ -1,11 +1,11 @@
 <head>
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=BGAqyRPREE">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=BGAqyRPREE">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=BGAqyRPREE">
-  <link rel="manifest" href="/site.webmanifest?v=BGAqyRPREE">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=BGAqyRPREE" color="#5bbad5">
-  <link rel="shortcut icon" href="/favicon.ico?v=BGAqyRPREE">
-  <meta name="msapplication-TileColor" content="#da532c">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=eE5Joe3dPO">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=eE5Joe3dPO">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=eE5Joe3dPO">
+  <link rel="manifest" href="/site.webmanifest?v=eE5Joe3dPO">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=eE5Joe3dPO" color="#5bbad5">
+  <link rel="shortcut icon" href="/favicon.ico?v=eE5Joe3dPO">
+  <meta name="msapplication-TileColor" content="#2b5797">
   <meta name="theme-color" content="#ffffff">
 </head>
 
