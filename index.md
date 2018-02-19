@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" href="icons/favicon-ico.png">
+  <link rel="shortcut icon" href="icons/favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
@@ -10,12 +10,15 @@
 </head>
 
 <p align="center">
-  <b><a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf">CV </a>  | 
-  <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>  | 
-     justinsola at gmail dot com
-  </b><br><br>
+  <b>
+    <a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf">CV </a> | 
+    justinsola at gmail dot com | 
+    <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>
+  </b>
+  <br><br>
 <img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg">
 </p>
+
 ## About me
 2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research Details_). Since 2014 I've built models and conducted business strategy research tech, reinsurance, and infrastructure companies as a consultant at [Endeavour Partners](https://endeavour.partners/about/).
 
