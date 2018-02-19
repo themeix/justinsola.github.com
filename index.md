@@ -1,5 +1,12 @@
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" href="favicon.ico?v=BGAqyRPREE">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png?v=BGAqyRPREE">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png?v=BGAqyRPREE">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png?v=BGAqyRPREE">
+  <link rel="manifest" href="icons/site.webmanifest?v=BGAqyRPREE">
+  <link rel="mask-icon" href="icons/safari-pinned-tab.svg?v=BGAqyRPREE" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 </head>
 
 <p align="center">
