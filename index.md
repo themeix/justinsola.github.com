@@ -16,8 +16,7 @@
     <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>
   </b>
   <br><br>
-<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg">
-</p>
+<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg"></p>
 
 ## About me
 2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research Details_). Since 2014 I've built models and conducted business strategy research tech, reinsurance, and infrastructure companies as a consultant at [Endeavour Partners](https://endeavour.partners/about/).
@@ -28,11 +27,11 @@ Outside of study I like building computers, reading science fiction, making beef
 
 ## Research details
 
-In my junior year at Harvard two discrepancies catalyzed my  research:
+In the summer of 2012 two discrepancies catalyzed my US gun ownership research:
 
 **First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. Gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complimented it by ensuring their personal safety.
 
-**Second**, I felt that there wasn't enough sociological research on US gun ownership; most I had found was conducted via survey (Gallup and Pew), or was more concerned with outcome than mechanism and motive, like David Hemenway’s seminal statistical analyses. As Randall Collins said about the study of US gun ownership:
+**Second**, I felt that there wasn't enough sociological research on US gun ownership; most I found was conducted via survey (Gallup and Pew), or was more concerned with outcome than mechanism and motive, like David Hemenway’s seminal statistical analyses. As Randall Collins said about the study of US gun ownership:
 >it is not a sociological explanation of behavior to invoke the reasons given, especially on occasions of public justification and debate....Instead we should ask, 'Why do particular people come to believe in these reasons, or rather, in what circumstances do they invoke them....What is it that possessors of guns do?' – Interaction Ritual Chains (2004)
 
 For my thesis I conducted semi-structured interviews with 36 gun owners and police from Vermont and Massachusetts. I sought to understand how participants believed responsibility for welfare and security should be divided among individuals, families, communities, and governments. I coded these beliefs and narratives, comparing participants' beliefs with both their gun ownership practices (such as guns owned and concealed carry behavior) and their gun control stances.
