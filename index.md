@@ -1,6 +1,11 @@
-**[CV](https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf) – [LinkedIn](https://www.linkedin.com/in/justinlucassola/)** – **justinsola at gmail dot com**
+<p align="center">
+  <b><a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf">CV </a>  | 
+  <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>  | 
+     justinsola at gmail dot com
+  </b><br>
+<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg">
+</p>
 
-![Image](https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg)
 ## About me
 2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research Details_). Since 2014 I've built models and conducted business strategy research tech, reinsurance, and infrastructure companies as a consultant at [Endeavour Partners](https://endeavour.partners/about/).
 
