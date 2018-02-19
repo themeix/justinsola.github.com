@@ -27,7 +27,7 @@ Outside of study I like building computers, reading science fiction, making beef
 
 ## Research details
 
-In the summer of 2012 two discrepancies catalyzed my US gun ownership research:
+Two discrepancies catalyzed my interest in US gun ownership research during the fall of 2012:
 
 **First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. Gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complimented it by ensuring their personal safety.
 
