@@ -1,7 +1,6 @@
 **[CV](https://github.com/justinsola/justinsola.github.com/raw/master/files/CV_Jan_2018.pdf) – [LinkedIn](https://www.linkedin.com/in/justinlucassola/)** – **justinsola at gmail dot com**
 
 ![Image](https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg)
-
 ## About me
 2014 Harvard grad with honors in [Social Studies](https://socialstudies.fas.harvard.edu/), a secondary in Psychology, and senior thesis on US gun ownership (see _Research Details_). Since then I've built models and conducted research as a business strategy consultant at [Endeavour Partners](https://endeavour.partners/about/) for smartphone, wireless, reinsurance, and infrastructure companies.
 
@@ -18,6 +17,6 @@ I began my research on US gun ownership in my junior year at Harvard. Two discre
 **Second**, I felt that there wasn't enough sociological research on US gun ownership; most I had found was conducted via survey (Gallup and Pew), or was more concerned with outcome than mechanism and motive, like David Hemenway’s seminal statistical analyses. As Randall Collins said about the study of US gun ownership:
 >it is not a sociological explanation of behavior to invoke the reasons given, especially on occasions of public justification and debate....Instead we should ask, 'Why do particular people come to believe in these reasons, or rather, in what circumstances do they invoke them....What is it that possessors of guns do?' – Interaction Ritual Chains (2004)
 
-So in my thesis I conducted semi-structured interviews with 36 gun owners and police officers from Vermont and Massachusetts. I wanted to understand how participants believed responsibility for welfare and security should be divided between individuals, families, communities, and governments. I captured participant narratives and coded these beliefs, comparing beliefs with gun ownership practices (such as types of guns owned and concealed carry behavior) and stance on gun controls.
+In my thesis I conducted semi-structured interviews with 36 gun owners and police officers from Vermont and Massachusetts. I wanted to understand how participants believed responsibility for welfare and security should be divided among individuals, families, communities, and governments. I coded these beliefs and noted participant narratives, comparing beliefs with both gun ownership practices (such as guns owned and concealed carry behavior) and stance on gun controls.
 
 **[Senior thesis](https://github.com/justinsola/justinsola.github.com/raw/master/files/Guns_in_the_Ideal_Society.pdf)**  ([Appendix B of thesis](https://github.com/justinsola/justinsola.github.com/raw/master/files/Appendix-B_%E2%80%93_Guns_in_the_Ideal_Society.pdf))
