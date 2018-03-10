@@ -30,7 +30,7 @@ Outside of study I like building computers, reading science fiction, making beef
 
 Two discrepancies catalyzed my interest in US gun ownership research during the fall of 2012:
 
-**First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. But US gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complimented it by ensuring their personal safety.
+**First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. But US gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complemented it by ensuring their personal safety.
 
 **Second**, I felt that there wasn't enough sociological research on US gun ownership; most studies were concerned with outcomes, like David Hemenway’s seminal statistical analyses, rather than the mechanisms and motives of gun ownership. As Randall Collins said about the study of US gun ownership:
 >It is not a sociological explanation of behavior to invoke the reasons given, especially on occasions of public justification and debate .... Instead we should ask, 'Why do particular people come to believe in these reasons, or rather, in what circumstances do they invoke them .... What is it that possessors of guns do?' – Interaction Ritual Chains (2004)
