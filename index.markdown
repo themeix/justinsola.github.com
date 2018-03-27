@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>
-    <a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/Sola_CV_February_2018.pdf">CV </a> | 
+    <a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/Sola_Resume_March_2018_v2.1.pdf">CV </a> | 
     justinsola at gmail dot com | 
     <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>
   </b>
