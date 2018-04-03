@@ -1,2 +1,2 @@
-## PhD versus Normie outcomes, as of March 22nd, 2018
-![Image](https://github.com/justinsola/justinsola.github.com/raw/master/files/2018.03.22_outcomes.png)
+## PhD versus Normie outcomes, as of April 3rd, 2018
+![Image](https://github.com/justinsola/justinsola.github.com/raw/master/files/outcomes.png)
