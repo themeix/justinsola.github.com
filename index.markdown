@@ -20,7 +20,7 @@
 </p>
 
 ## About me
-I can't wait to start at UC Irvine's Criminology, Law, & Society program this fall! 2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research details_ below). Since 2014 I've built models and conducted business strategy research for tech, reinsurance, and infrastructure companies as a senior consultant at [Endeavour Partners](https://endeavour.partners/about/).
+I can't wait to start at UC Irvine's Criminology, Law, & Society program this fall! 2014 Harvard grad with honors in [social studies](https://socialstudies.fas.harvard.edu/), a secondary in psychology, and a senior thesis on US gun ownership (see _Research details_ below). Between 2014 and 2018 I built models and conducted business strategy research for tech, reinsurance, and infrastructure companies as a consultant at [Endeavour Partners](https://endeavour.partners/about/).
 
 I look forward to mixed-methods research on the drivers of [legal gun acquisition](https://github.com/justinsola/justinsola.github.com/raw/master/files/Approx_US_Firearm_Sales_by_Month_(Jan1999-Aug2017).pdf), flows into illegal gun markets, and how legal and illegal guns influence [health outcomes](https://github.com/justinsola/justinsola.github.com/raw/master/files/US_Firearm_Deaths_by_Type_(1999-2015).pdf). My plan is to excel in statistics, criminology, and sociology coursework to further my research, and also to better understand the role of socioeconomic inequality in gun violence. I want to conduct research that, to paraphrase Peter Bearman, exhibits formal rigor, respects actors by placing them in the right action frames, and that imputes adequate motives.
 
