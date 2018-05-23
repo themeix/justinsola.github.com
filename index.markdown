@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>
   </b>
   <br><br>
-<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/web_pic_very_small2.jpg">
+<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_smaller.jpg">
 </p>
 
 ## About me
