@@ -11,9 +11,8 @@
 
 <p align="center">
   <b>
-    <a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/Sola Resume April 2018.pdf">CV </a> | 
-    <a href="solaj@uci.edu"> solaj@uci.edu  </a> | 
-    <a href="https://www.linkedin.com/in/justinlucassola/"> LinkedIn </a>
+    <a href="https://github.com/justinsola/justinsola.github.com/raw/master/files/Sola CV May 2019.pdf">CV </a> | 
+    <a href="solaj@uci.edu"> solaj@uci.edu  </a>
   </b>
   <br><br>
 <img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.png">
