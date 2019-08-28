@@ -15,7 +15,7 @@
     <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
   </b>
   <br><br>
-<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.png">
+<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.jpg">
 </p>
 
 ## About me
