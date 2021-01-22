@@ -19,7 +19,7 @@
 </p>
 
 ## About me
-3rd year at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) PhD! I have served as Graduate Representative for the department and serve as an Editorial Assistant for <i>[Sociological Perspectives](https://journals.sagepub.com/home/spx)</i>.
+3rd year at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) PhD! I serve as an Editorial Assistant for <i>[Sociological Perspectives](https://journals.sagepub.com/home/spx)</i>, am a member of <i>[Irvine Laboratory for the Study of Space and Crime] (http://ilssc.soceco.uci.edu/)</i>, and have served as Graduate Representative for the department.
 
 My primary research areas are the measure and drivers of gun desirability, how carceral contact affects inequality (e.g. monetary sanctions), the epistemic status of mixed-methods social research, and how people consume security through training, equipment, group membership, and mindset adoption.  I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (to paraphrase Peter Bearman).
 
@@ -29,7 +29,7 @@ Prior to UCI I graduated from Harvard in 2014, with honors in [social studies](h
 
 Two discrepancies catalyzed my interest in US gun ownership research during the fall of 2012:
 
-**First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argued that a modern state had a “monopoly on the legitimate use of physical force” within its territory. But US gun owners seemed to disagree, arguing that their gun ownership both competed with a government monopoly on force and complemented it by ensuring their personal safety.
+**First**, I noted a disconnect between how gun owners thought about legitimate force and how social theorists, like Max Weber, argue that a modern state had a “monopoly on the legitimate use of physical force” within its territory. But US gun owners often view their gun ownership as both 1) in competition with the state monopoly of force and 2) complementary with state power by ensuring personal safety and enforcing norms (e.g. 'an armed society is a polite society').
 
 **Second**, I felt that there wasn't enough sociological research on US gun ownership; most studies were concerned with outcomes, like David Hemenway’s seminal statistical analyses, rather than the mechanisms and motives of gun ownership. As Randall Collins said about the study of US gun ownership:
 >It is not a sociological explanation of behavior to invoke the reasons given, especially on occasions of public justification and debate .... Instead we should ask, 'Why do particular people come to believe in these reasons, or rather, in what circumstances do they invoke them .... What is it that possessors of guns do?' – Interaction Ritual Chains (2004, p. 100)
