@@ -19,7 +19,7 @@
 </p>
 
 ## About me
-3rd year at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) PhD! I serve as an Editorial Assistant for <i>[Sociological Perspectives](https://journals.sagepub.com/home/spx)</i>, am a member of <i>[Irvine Laboratory for the Study of Space and Crime] (http://ilssc.soceco.uci.edu/)</i>, and have served as Graduate Representative for the department.
+3rd year at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) PhD! I serve as an Editorial Assistant for <i>[Sociological Perspectives](https://journals.sagepub.com/home/spx)</i>, am a member of <i>[Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/)</i>, and have served as Graduate Representative for the department.
 
 My primary research areas are the measure and drivers of gun desirability, how carceral contact affects inequality (e.g. monetary sanctions), the epistemic status of mixed-methods social research, and how people consume security through training, equipment, group membership, and mindset adoption.  I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (to paraphrase Peter Bearman).
 
