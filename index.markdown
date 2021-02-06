@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV January 2021.pdf">CV </a> | 
+    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
     <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
   </b>
   <br><br>
