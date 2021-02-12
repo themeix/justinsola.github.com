@@ -1,7 +1,8 @@
 ---
 title: Research
-filename: research
---- 
+filename: jlsola.com/research
+layout: home
+---
 
 <head>
   <link rel="shortcut icon" href="favicon.ico?v=BGAqyRPREE">
@@ -16,7 +17,7 @@ filename: research
 
 <p align="center">
   <b>
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/index.markdown" class="btn">Research</a> | 
+    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/index.markdown">Research</a> | 
     <a href="https://github.com/justinsola/justinsola.github.com/blob/master/about_me.md" class="btn">About me</a> | 
     <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
     <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
