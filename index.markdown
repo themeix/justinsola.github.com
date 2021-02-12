@@ -1,6 +1,6 @@
 ---
 title: Research
-filename: jlsola.com/research
+filename: research
 layout: home
 
 ---
