@@ -1,3 +1,8 @@
+---
+title: Research
+filename: research
+--- 
+
 <head>
   <link rel="shortcut icon" href="favicon.ico?v=BGAqyRPREE">
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png?v=BGAqyRPREE">
