@@ -25,7 +25,7 @@
 
 Prior to UCI I graduated from Harvard in 2014, with honors in [social studies](https://socialstudies.fas.harvard.edu/), a minor in psychology, and a senior thesis on US gun ownership (see _Research details_ below). Between 2014 and 2018 I built models and conducted business strategy research for tech, reinsurance, and infrastructure companies as a consultant in Cambridge, Massachusetts. Outside of study I like building computers, reading science fiction, making beef jerky ([my personal recipe](https://docs.google.com/spreadsheets/d/14g3BNcLFfN2xKgDRqwK4-0S1jt4SJRSaw_OR_8raQ0g/edit?usp=sharing)), puns, playing drum set (working on some [Tesseract](https://www.tesseractband.co.uk/) songs), and making [pretty histograms](https://github.com/justinsola/justinsola.github.com/tree/master/code). Feel free to email me:  <b> justin.sola@uci.edu </b>
 
-## Beginnings of gun ownership research
+## Gun ownership research beginnings
 
 Two discrepancies catalyzed my interest in US gun ownership research during the fall of 2012:
 
