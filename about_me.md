@@ -21,7 +21,7 @@ layout: default
     <a href="./files/CV%20February%202021.pdf">CV</a> | 
     justin.sola@uci.edu
   </b>
-  <br><br>
+  <br>
 <img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.jpg">
 </p>
 
