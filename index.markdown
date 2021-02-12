@@ -34,4 +34,4 @@ layout: default
 
 My primary research areas are the measure and drivers of gun desirability, how carceral contact affects inequality (e.g. monetary sanctions), the epistemic status of mixed-methods social research, and how people consume security through training, equipment, group membership, and mindset adoption.
 
-I use both qual and quant methods and employ various research designs, including experimental, survey, and participant observations combined with interview. I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (to paraphrase Peter Bearman).
+I use both qual and quant methods, employing a variety of research designs including experimental, survey, and participant observations in conjunction with interviews. I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (to paraphrase Peter Bearman).
