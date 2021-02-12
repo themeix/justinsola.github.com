@@ -20,7 +20,7 @@ layout: default
     <a href="./about_me">About me</a> |  
     <a href="./files/CV%20February%202021.pdf">CV</a> | 
     <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
-    <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
+    <justin.sola@uci.edu>
   </b>
   <br><br>
 <img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.jpg">
