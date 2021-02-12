@@ -18,11 +18,10 @@ layout: default
 
 <p align="center">
   <b>
-    [Research](./)
-    [About me](./about_me.html) | 
-    [CV](./files/CV February 2021.pdf) | 
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
-    <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
+    <a href="./">Research</a> | 
+    <a href="./about_me.html">About me</a> |  
+    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV</a> | 
+    <a href="justin.sola@uci.edu">justin.sola@uci.edu</a>
   </b>
   <br>
 </p>
