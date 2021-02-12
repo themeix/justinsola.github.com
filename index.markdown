@@ -1,7 +1,7 @@
 ---
 title: Research
 filename: research
-layout: home
+layout: default
 
 ---
 
