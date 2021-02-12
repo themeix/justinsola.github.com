@@ -18,8 +18,8 @@ layout: default
 
 <p align="center">
   <b>
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/index.markdown" class="btn">Research</a> | 
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/about_me.md" class="btn">About me</a> | 
+    <a href="https://www.jlsola.com/research">Research</a> | 
+    <a href="https://www.jlsola.com/about_me">About me</a> | 
     <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
     <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
   </b>
