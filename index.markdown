@@ -2,6 +2,7 @@
 title: Research
 filename: jlsola.com/research
 layout: home
+
 ---
 
 <head>
