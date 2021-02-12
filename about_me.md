@@ -1,3 +1,8 @@
+---
+title: About me
+filename: about_me
+--- 
+
 <head>
   <link rel="shortcut icon" href="favicon.ico?v=BGAqyRPREE">
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png?v=BGAqyRPREE">
@@ -11,8 +16,8 @@
 
 <p align="center">
   <b>
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/index.md" class="btn">Research</a> | 
-    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/about_me.md" class="btn">About me</a> | 
+    <a href={{ page.research }}>{{ page.title }}</a> | 
+    <a href={{ page.about_me }}>{{ page.title }}</a> | 
     <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
     <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
   </b>
