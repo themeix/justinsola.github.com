@@ -9,13 +9,10 @@
   <meta name="theme-color" content="#ffffff">
 </head>
 
-<header class="page-header" role="banner">
-  <a href="https://github.com/justinsola/justinsola.github.com/blob/master/index.md" class="btn">Research</a>
-  <a href="https://github.com/justinsola/justinsola.github.com/blob/master/about_me.md" class="btn">About me</a>
-</header>
-
 <p align="center">
   <b>
+    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/index.md" class="btn">Research</a> | 
+    <a href="https://github.com/justinsola/justinsola.github.com/blob/master/about_me.md" class="btn">About me</a>
     <a href="https://github.com/justinsola/justinsola.github.com/blob/master/files/CV February 2021.pdf">CV </a> | 
     <a href="justin.sola@uci.edu"> justin.sola@uci.edu  </a>
   </b>
