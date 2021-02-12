@@ -1,6 +1,8 @@
 ---
 title: About me
 filename: about_me
+layout: default
+
 --- 
 
 <head>
