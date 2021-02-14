@@ -22,6 +22,7 @@ layout: default
     justin.sola@uci.edu
   </b>
   <br>
+  <br>
 <img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.jpg">
 </p>
 
