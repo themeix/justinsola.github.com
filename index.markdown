@@ -28,7 +28,7 @@ layout: default
 
 ## Recent publications
 
-- <a href="./files/2021.05.16%20preprint%20for%20distribution.pdf">**Sola, Justin L**.  Accepted (preprint) 2021</a>. Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic. *Sociological Perspectives Special Issue – The Coronavirus (COVID-19) & Society*.
+- <a href="./files/2021.05.16%20Sola%20-%20Transmitting%20Desire%20preprint.pdf">**Sola, Justin L**.  Accepted (preprint) 2021</a>. Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic. *Sociological Perspectives Special Issue – The Coronavirus (COVID-19) & Society*.
 
 ## Research orientation
 
