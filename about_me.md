@@ -18,7 +18,7 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> |  
-    <a href="./files/CV%20May%202021.pdf">CV</a> | 
+    <a href="./files/CV%20June%202021.pdf">CV</a> | 
     justin.sola@uci.edu
   </b>
   <br>
@@ -27,7 +27,7 @@ layout: default
 </p>
 
 ## About me
-3rd year at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) PhD! I serve as an Editorial Assistant for <i>[Sociological Perspectives](https://journals.sagepub.com/home/spx)</i>, am a member of <i>[Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/)</i>, and have served as Graduate Representative for the department.
+Rising 4th year at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) PhD! I serve as an Editorial Assistant for <i>[Sociological Perspectives](https://journals.sagepub.com/home/spx)</i>, am a member of <i>[Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/)</i>, Graduate Representative to the School of Social Ecology, and have served as Graduate Representative for the department.
 
 Prior to UCI I graduated from Harvard in 2014, with honors in [social studies](https://socialstudies.fas.harvard.edu/), a minor in psychology, and a senior thesis on US gun ownership (see _Research details_ below). Between 2014 and 2018 I built models and conducted business strategy research for tech, reinsurance, and infrastructure companies as a consultant in Cambridge, Massachusetts. Outside of study I like building computers, reading science fiction, making beef jerky ([my personal recipe](https://docs.google.com/spreadsheets/d/14g3BNcLFfN2xKgDRqwK4-0S1jt4SJRSaw_OR_8raQ0g/edit?usp=sharing)), puns, playing drum set (working on some [Tesseract](https://www.tesseractband.co.uk/) songs), and making [pretty histograms](https://github.com/justinsola/justinsola.github.com/tree/master/code). Feel free to email me:  <b> justin.sola@uci.edu </b>
 
