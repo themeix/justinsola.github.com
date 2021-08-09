@@ -32,6 +32,6 @@ layout: default
 
 ## Research orientation
 
-My research interests are 1) the generation & maintenance of socioeconomic inequality and 2) testing theories of how and why people seek security. I actively research 1) gun desirability, 2) how carceral contact affects inequality, 3) heterogeneity in desire for police service, 4) the epistemology of mixed-methods social research, and 5) how Americans consume security through training, equipment, and group membership.
+My research interests are 1) the generation & maintenance of socioeconomic inequality and 2) testing theories of how & why people seek security. I actively research 1) gun desirability, 2) how carceral contact affects inequality, 3) heterogeneity in desire for police services, 4) the epistemology of mixed-methods social research, and 5) how Americans consume security through training, equipment, & group membership.
 
 I use both qual and quant methods, employing a variety of research designs including experimental, survey, and participant observations in conjunction with interviews. I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (to paraphrase Peter Bearman).
