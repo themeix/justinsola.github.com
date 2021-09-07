@@ -30,6 +30,10 @@ layout: default
 
 - <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin Lucas**.  August 2021.</a> "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives Special Issue – The Coronavirus (COVID-19) & Society*. https://doi.org/10.1177/07311214211007179
 
+## Forthcoming publications
+
+- Sykes, Bryan L., Meghan Ballard, Andre Giuffre, Rebecca Goodsell, Daniela Kaiser, Vicente Celestino Mata, **Justin Sola**.  Forthcoming. "Robbing Peter to Pay Paul: Public Assistance, Monetary Sanctions, and Financial Double-Dealing in America." *RSF: The Russell Sage Foundation Journal of the Social Sciences*.
+
 ## Research orientation
 
 My research interests are 1) the generation & maintenance of socioeconomic inequality and 2) testing theories of how & why people seek security. I actively research 1) gun desirability, 2) how carceral contact affects inequality, 3) heterogeneity in desire for police services, 4) the epistemology of mixed-methods social research, and 5) how Americans consume security through training, equipment, & group membership.
