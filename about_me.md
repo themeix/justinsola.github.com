@@ -18,7 +18,7 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> |  
-    <a href="./files/CV%20Dec%202021.pdf">CV</a> | 
+    <a href="./files/CV%20Feb%202021.pdf">CV</a> | 
     justin.sola@uci.edu
   </b>
   <br>
