@@ -23,7 +23,7 @@ layout: default
   </b>
   <br>
   <br>
-<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/headshot_square_smallest_compressed.jpg">
+<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/blob/master/files/2022.05.12_headshot.png">
 </p>
 
 ## About me
