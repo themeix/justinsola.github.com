@@ -28,8 +28,9 @@ layout: default
 
 ## Recent publications
 
-- <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin Lucas**.</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5): https://doi.org/10.1177/07311214211007179
+- <a href="https://doi.org/10.1177/00027162221099291">Sykes, B., …. & **Sola, J**.</a> 2022. “Barred: Labor Market Dynamics and Human Capital Development Among People on Probation and Parole.” *Annals of the American Academy of Political and Social Science* (Volume 701 Issue 1): https://doi.org/10.1177/00027162221099291
 - <a href="https://doi.org/10.7758/RSF.2022.8.1.07">Sykes, B., …. & **Sola, J**.</a> 2022. “Robbing Peter to Pay Paul: Public Assistance, Monetary Sanctions, and Financial Double-Dealing in America.” *RSF: The Russell Sage Foundation Journal of the Social Sciences* (Volume 8 Issue 1): https://doi.org/10.7758/RSF.2022.8.1.07
+- <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin Lucas**.</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5): https://doi.org/10.1177/07311214211007179
 
 ## Forthcoming publications
 
