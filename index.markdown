@@ -32,10 +32,6 @@ layout: default
 - <a href="https://doi.org/10.7758/RSF.2022.8.1.07">Sykes, B., …. & **Sola, J**.</a> 2022. “Robbing Peter to Pay Paul: Public Assistance, Monetary Sanctions, and Financial Double-Dealing in America.” *RSF: The Russell Sage Foundation Journal of the Social Sciences* (Volume 8 Issue 1: 148-178): https://doi.org/10.7758/RSF.2022.8.1.07
 - <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin Lucas**.</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5: 939-969): https://doi.org/10.1177/07311214211007179
 
-## Forthcoming publications
-
-- Sykes, B., … & **Sola, J**. Forthcoming 2022. “Barred: Labor Market Dynamics and Human Capital Development Among People on Probation and Parole.” *Annals of the American Academy of Political and Social Science*.
-
 ## Research orientation
 
 My research interests are 1) socioeconomic inequality and 2) testing how & why people seek security. I actively research 1) gun desirability, 2) how carceral contact affects inequality, 3) heterogeneity in desire for police services, and 4) how Americans consume security through training, equipment, & group membership.
