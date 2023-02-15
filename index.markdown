@@ -36,4 +36,4 @@ layout: default
 
 My research interests are 1) socioeconomic inequality and 2) testing how & why people seek security. I actively research 1) gun desirability, 2) how carceral contact affects inequality, 3) heterogeneity in desire for police services, and 4) how Americans consume security through training, equipment, & group membership.
 
-I use both qual and quant methods in research designs featuring experimental, survey, participant observation, and interview methods. I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (to paraphrase Peter Bearman).
+I use both qual and quant methods in research designs featuring experimental, survey, participant observation, and interview methods. I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (paraphrasing Peter Bearman).
