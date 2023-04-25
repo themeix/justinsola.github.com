@@ -21,7 +21,7 @@ layout: default
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
     <a href="./gun_research_origins">Why Study Guns?</a> | 
-    <a href="./files/2023.04.19_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.04.25_CV_Sola.pdf">CV</a> | 
     justin.sola@uci.edu
   </b>
   <br>
@@ -29,9 +29,10 @@ layout: default
 
 ## Recent publications
 
+- <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin L.** and Charis E. Kubrin.</a> Forthcoming 2023. "Making the Call: How Does Perceived Race Affect Desire to Call the Police?" *Experimental Criminology*
 - <a href="https://doi.org/10.1177/00027162221099291">Sykes, B., …. & **Sola, J**.</a> 2022. “Barred: Labor Market Dynamics and Human Capital Development Among People on Probation and Parole.” *Annals of the American Academy of Political and Social Science* (Volume 701 Issue 1: 28-45): https://doi.org/10.1177/00027162221099291
 - <a href="https://doi.org/10.7758/RSF.2022.8.1.07">Sykes, B., …. & **Sola, J**.</a> 2022. “Robbing Peter to Pay Paul: Public Assistance, Monetary Sanctions, and Financial Double-Dealing in America.” *RSF: The Russell Sage Foundation Journal of the Social Sciences* (Volume 8 Issue 1: 148-178): https://doi.org/10.7758/RSF.2022.8.1.07
-- <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin Lucas**.</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5: 939-969): https://doi.org/10.1177/07311214211007179
+- <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin L.**.</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5: 939-969): https://doi.org/10.1177/07311214211007179
 
 ## Research orientation
 
