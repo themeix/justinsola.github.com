@@ -21,7 +21,7 @@ layout: default
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
     <a href="./gun_research_origins">Why Study Guns?</a> | 
-    <a href="./files/2023.04.25_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.05.09_CV_Sola.pdf">CV</a> | 
     justin.sola@uci.edu
   </b>
   <br>
