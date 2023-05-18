@@ -19,12 +19,12 @@ layout: default
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
     <a href="./gun_research_origins">Why Study Guns?</a> | 
-    <a href="./files/2023.05.15_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.05.18_CV_Sola.pdf">CV</a> | 
     justin.sola@uci.edu
   </b>
   <br>
   <br>
-<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/2022.05.12_headshot.png">
+<img src="https://raw.githubusercontent.com/justinsola/justinsola.github.com/master/files/small_edited_headshot.jpg">
 </p>
 
 ## About me
