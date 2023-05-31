@@ -44,4 +44,4 @@ My research explores the motivations for security-seeking behaviors like gun own
 5. Assessing how gun ownership affects neighborhood socialization
 
 
-In my research I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-centric surveys), semi-structured interviews, participant observation, and occasionally common sense. My goal is develop research that is rigorous and grounded as a foundation for justice, equality, and safety.
+In my research I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-centric surveys), semi-structured interviews, participant observation, and occasionally common sense. My goal is develop research that is rigorous and grounded, to serve as a foundation as we build justice, equality, and safety.
