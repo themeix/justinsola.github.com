@@ -20,8 +20,8 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
-    <a href="./gun_research_origins">Why Study Guns?</a> | 
     <a href="./files/2023.05.18_CV_Sola.pdf">CV</a> | 
+    <a href="https://orcid.org/0000-0002-0955-1031">ORCID</a> | 
     justin.sola@uci.edu
   </b>
   <br>
@@ -34,8 +34,8 @@ layout: default
 - <a href="https://doi.org/10.7758/RSF.2022.8.1.07">Sykes, B., …. & **Sola, J**.</a> 2022. “Robbing Peter to Pay Paul: Public Assistance, Monetary Sanctions, and Financial Double-Dealing in America.” *RSF: The Russell Sage Foundation Journal of the Social Sciences* (Volume 8 Issue 1: 148-178).
 - <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin L.**</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5: 939-969).
 
-## Research orientation
+## Research
 
-My research interests are 1) socioeconomic inequality and 2) testing how & why people seek security. I actively research 1) gun desirability, 2) how carceral contact affects inequality, 3) heterogeneity in desire for police services, and 4) how Americans consume security through training, equipment, & group membership.
+I research why people seek security through gun ownership and the police, and how inequality interacts with stages of the criminal justice system. My ongoing projects include 1) analyzing the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs, 2) testing how racial biases affect desire to call the police, 3) seeing how socioeconomic hardship on gun desirability, 4) making theories of neoliberalism more useful, and 5) determining how gun ownership affects neighborhoods.
 
-I use both qual and quant methods in research designs featuring experimental, survey, participant observation, and interview methods. I want to conduct research that is rigorous, respects actors' frames of action, and that imputes adequate motives and mechanisms of behavior (paraphrasing Peter Bearman).
+I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-centric surveys), semi-structured interviews, participant observation, and occasionally common sense to do research. My goal is develop research that is rigorous and grounded, informing broader efforts to promote justice, equality, and safety.
