@@ -36,6 +36,12 @@ layout: default
 
 ## Research
 
-I research why people seek security through gun ownership and the police, and how inequality interacts with stages of the criminal justice system. My ongoing projects include 1) analyzing the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs, 2) testing how racial biases affect desire to call the police, 3) seeing how socioeconomic hardship on gun desirability, 4) making theories of neoliberalism more useful, and 5) determining how gun ownership affects neighborhoods.
+My research explores the motivations for security-seeking behaviors like gun ownership and reliance on law enforcement, and the interaction the criminal justice system with racial and socioeconomic inequality. My active projects include:
+1. Evaluating the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs
+2. Testing the role of bias in decisions to call the police
+3. Investigating how socioeconomic hardship affects gun ownership
+4. Enhancing the practicality of theories of neoliberalism
+5. Assessing how gun ownership affects neighborhood socialization
 
-I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-centric surveys), semi-structured interviews, participant observation, and occasionally common sense to do research. My goal is develop research that is rigorous and grounded, informing broader efforts to promote justice, equality, and safety.
+
+In my research I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-centric surveys), semi-structured interviews, participant observation, and occasionally even common sense. My goal is develop research that is rigorous and grounded, so that the field can inform efforts to promote justice, equality, and safety.
