@@ -18,8 +18,8 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
-    <a href="./gun_research_origins">Why Study Guns?</a> | 
     <a href="./files/2023.05.18_CV_Sola.pdf">CV</a> | 
+    <a href="https://orcid.org/0000-0002-0955-1031">ORCID</a> | 
     justin.sola@uci.edu
   </b>
   <br>
@@ -34,6 +34,6 @@ layout: default
 In my professional service, I review for [Criminology](https://orcid.org/0000-0002-0955-1031) and have served as an Editorial Assistant for Sociological Perspectives. My service to UC Irvine includes work as a Peer Mentor and Graduate Representative for the Criminology, Law & Society department, and as a Graduate Representative to the School of Social Ecology. In my service to the community, I provide statistics tutoring for inmates at California State Prison Solano, consult with the American Civil Liberties Union (ACLU), and work with the Federal Defenders of the 1st Circuit.
 
 ## Prior Experience and interests
-Before academia, I built models and developed strategies for technology, reinsurance, infrastructure, and advertising businesses as a consultant and then as a data analyst, based in Cambridge, Massachusetts. I earned my bachelors in 2014 at Harvard - major in [Social Studies](https://socialstudies.fas.harvard.edu/) and minor in Psychology - and wrote a senior thesis on U.S. gun ownership (see <a href="./gun_research_origins">Why Study Guns?</a>).
+Before academia, I built models and developed strategies for technology, reinsurance, infrastructure, and advertising businesses as a consultant and then as a data analyst, based in Cambridge, Massachusetts. I earned my bachelors in 2014 at Harvard - with a major in [Social Studies](https://socialstudies.fas.harvard.edu/) and minor in Psychology - and wrote a senior thesis on U.S. gun ownership (see <a href="./gun_research_origins">Why Study Guns?</a>).
 
-Outside of work, I enjoy culinary experiments, such as creating my own [beef jerky recipe](https://docs.google.com/spreadsheets/d/14g3BNcLFfN2xKgDRqwK4-0S1jt4SJRSaw_OR_8raQ0g/edit?usp=sharing). I also have an affinity for puns and the challenge of mastering progressive metal drum parts, pushing myself to learn more pieces by Tesseract.
+Outside of work, I enjoy culinary experiments (like creating my own [beef jerky recipe](https://docs.google.com/spreadsheets/d/14g3BNcLFfN2xKgDRqwK4-0S1jt4SJRSaw_OR_8raQ0g/edit?usp=sharing)), being active, puns, and the challenge of mastering progressive metal drum parts.
