@@ -36,7 +36,7 @@ layout: default
 
 ## Research
 
-My research explores the motivations for security-seeking behaviors like gun ownership and reliance on law enforcement, and the interaction the criminal justice system with racial and socioeconomic inequality. My active projects include:
+I research security-seeking behaviors like gun ownership and reliance on law enforcement, and the interaction of the criminal justice system with racial and socioecnomic inequality. My active projects include:
 1. Evaluating the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs
 2. Testing the role of bias in decisions to call the police
 3. Investigating how socioeconomic hardship affects gun ownership
