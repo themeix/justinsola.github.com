@@ -18,7 +18,7 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
-    <a href="./files/2023.05.18_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.06.04_CV_Sola.pdf">CV</a> | 
     <a href="https://orcid.org/0000-0002-0955-1031">ORCID</a> | 
     justin.sola@uci.edu
   </b>
@@ -28,7 +28,7 @@ layout: default
 </p>
 
 ## About me
-5th year PhD candidate at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program). My accolades include being named a 2023-24 Haynes Dissertation Fellow, receiving the 2022-23 [National Collaborative on Gun Violence Research Dissertation Award](https://www.ncgvr.org/grants/2022/assessing-the-causes-of-gun-desirability-in-america.html), and being named a 2018-23 Arnie Binder Fellow. My work focuses on the [Shadow Costs](https://www.shadowcosts.com) project, which tests the impact of rehabilitation classes and monetary sanctions (with funding by NSF, NIJ, RSF, and Haynes grants). Additionally, I am an active member of the [Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/).
+5th year PhD candidate at UC Irvine's [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) with a Race and Justice graduate emphasis. My accolades include being named a 2023-24 Haynes Dissertation Fellow, receiving the 2022-23 [National Collaborative on Gun Violence Research Dissertation Award](https://www.ncgvr.org/grants/2022/assessing-the-causes-of-gun-desirability-in-america.html), and being named a 2018-23 Arnie Binder Fellow. My fieldwork is focused on the [Shadow Costs](https://www.shadowcosts.com) project, which tests the impact of rehabilitation classes and monetary sanctions (with funding by NSF, NIJ, RSF, and Haynes grants). Additionally, I am an active member of the [Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/).
 
 ## Service
 In my professional service, I review for [Criminology](https://orcid.org/0000-0002-0955-1031) and have served as an Editorial Assistant for Sociological Perspectives. My service to UC Irvine includes work as a Peer Mentor and Graduate Representative for the Criminology, Law & Society department, and as a Graduate Representative to the School of Social Ecology. In my service to the community, I provide statistics tutoring for inmates at California State Prison Solano, consult with the American Civil Liberties Union (ACLU), and work with the Federal Defenders of the 1st Circuit.
