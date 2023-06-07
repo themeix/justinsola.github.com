@@ -36,7 +36,7 @@ layout: default
 
 ## Research
 
-I research how the criminal justice system interacts with racial and socioecnomic inequality, and the origins of security-seeking behaviors like gun ownership and calling the police. My active projects include:
+I research how the criminal justice system interacts with racial and socioeconomic inequality, and the origins of security-seeking behaviors like gun ownership and calling the police. My active projects include:
 1. Evaluating the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs
 2. Testing the role of bias in decisions to call the police
 3. Investigating how socioeconomic hardship affects desire for guns
