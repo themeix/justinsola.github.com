@@ -27,7 +27,7 @@ layout: default
   <br>
 </p>
 
-I research how the criminal justice system interacts with racial and socioeconomic inequality, and the origins of security-seeking behaviors like gun ownership and calling the police. I employ preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-delivered surveys), semi-structured interviews, participant observation, and content analysis. Active projects include:
+I research how the criminal justice system interacts with inequality and the origins of security-seeking behaviors like gun ownership. I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-delivered surveys), semi-structured interviews, participant observation, and content analysis. Active projects include:
 1. Evaluating the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs
 2. Testing the role of bias in decisions to call the police
 3. Investigating how socioeconomic hardship affects desire for guns
