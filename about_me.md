@@ -18,7 +18,7 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
-    <a href="./files/2023.07.12_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.07.21_CV_Sola.pdf">CV</a> | 
     <a href="https://orcid.org/0000-0002-0955-1031">ORCID</a> | 
     justin.sola@uci.edu
   </b>
