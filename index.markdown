@@ -20,14 +20,14 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
-    <a href="./files/2023.07.21_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.07.25_CV_Sola.pdf">CV</a> | 
     <a href="https://orcid.org/0000-0002-0955-1031">ORCID</a> | 
     justin.sola@uci.edu
   </b>
   <br>
 </p>
 
-I research how the criminal justice system interacts with inequality and the origins of security-seeking behaviors like gun ownership. I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-delivered surveys), semi-structured interviews, participant observation, and content analysis. Active projects include:
+I research security-seeking behaviors like gun ownership and how the criminal justice system interacts with inequality. I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-delivered surveys), semi-structured interviews, participant observation, and content analysis techniques like topic modeling. Active projects include:
 1. Evaluating the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs
 2. Testing the role of bias in decisions to call the police
 3. Investigating how socioeconomic hardship affects desire for guns
@@ -35,14 +35,14 @@ I research how the criminal justice system interacts with inequality and the ori
 5. Assessing how gun ownership affects neighborhood socialization
 
 ## Recent publications
-*How and when is desire to call the police racially biased?*
+*Question: How and when is desire to call the police racially biased?*
 - <a href="https://doi.org/10.1007/s11292-023-09571-z">**Sola, Justin L.** and Charis E. Kubrin.</a> 2023. "Making the Call: How Does Perceived Race Affect Desire to Call the Police?" *Experimental Criminology* (Online First).
 
-*Do employment struggles come before probation or parole, or come after?*
+*Question: Do employment struggles come before probation or parole, or come after?*
 - <a href="https://doi.org/10.1177/00027162221099291">Sykes, B., …. & **Sola, J**.</a> 2022. “Barred: Labor Market Dynamics and Human Capital Development Among People on Probation and Parole.” *Annals of the American Academy of Political and Social Science* (Volume 701 Issue 1: 28-45).
 
-*Does the state 'double-deal' by forcing public assistance recipients to fund the criminal justice system?*
+*Question: Does the state 'double-deal' by forcing public assistance recipients to fund the criminal justice system?*
 - <a href="https://doi.org/10.7758/RSF.2022.8.1.07">Sykes, B., …. & **Sola, J**.</a> 2022. “Robbing Peter to Pay Paul: Public Assistance, Monetary Sanctions, and Financial Double-Dealing in America.” *RSF: The Russell Sage Foundation Journal of the Social Sciences* (Volume 8 Issue 1: 148-178).
 
-*Can we answer pressing policy questions by measuring gun desirability now, rather than estimating gun sales afterwards?*
+*Question: Can we answer pressing policy questions by measuring gun desirability now, rather than estimating gun sales afterwards?*
 - <a href="https://doi.org/10.1177/07311214211007179">**Sola, Justin L.**</a> 2021. "Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic." *Sociological Perspectives* (Volume 65 Issue 5: 939-969).
