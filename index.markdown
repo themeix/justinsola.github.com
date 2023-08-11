@@ -20,7 +20,7 @@ layout: default
   <b>
     <a href="./">Research</a> | 
     <a href="./about_me">About me</a> | 
-    <a href="./files/2023.07.25_CV_Sola.pdf">CV</a> | 
+    <a href="./files/2023.08.10_CV.pdf">CV</a> | 
     <a href="https://orcid.org/0000-0002-0955-1031">ORCID</a> | 
     justin.sola@uci.edu
   </b>
@@ -29,10 +29,9 @@ layout: default
 
 I research security-seeking behaviors like gun ownership and how the criminal justice system interacts with inequality. I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-delivered surveys), semi-structured interviews, participant observation, and content analysis techniques like topic modeling. Active projects include:
 1. Evaluating the <a href="https://www.shadowcosts.com/">Shadow Costs</a> of reentry, diversion, and rehabilitation treatment programs
-2. Testing the role of bias in decisions to call the police
-3. Investigating how socioeconomic hardship affects desire for guns
-4. Enhancing the practicality of theories of neoliberalism
-5. Assessing how gun ownership affects neighborhood socialization
+2. Investigating how socioeconomic hardship affects desire for guns
+3. Critiquing theories of neoliberalism
+4. Assessing how gun ownership affects neighborhood socialization
 
 ## Recent publications
 *Question: How and when is desire to call the police racially biased?*
