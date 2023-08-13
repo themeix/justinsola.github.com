@@ -1,0 +1,27 @@
+---
+layout: home
+title: Home
+permalink: /
+subtitle: Criminology, Law & Society PhD Candidate - On the Market
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+I research security-seeking behaviors like gun ownership and how the criminal justice system interacts with inequality. I use preregistered experiments (forced-choice conjoint and vignette), longitudinal designs (smartphone-delivered surveys), semi-structured interviews, participant observation, and content analysis techniques like topic modeling. Active projects include:
+
+1.  Evaluating the [Shadow Costs](https://www.shadowcosts.com/) of reentry, diversion, and rehabilitation treatment programs
+2.  Investigating how socioeconomic hardship affects desire for guns
+3.  Critiquing theories of neoliberalism
+4.  Assessing how gun ownership affects neighborhood socialization
