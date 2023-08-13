@@ -2,31 +2,47 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Justin Lucas Sola
+    - name: Website
+      value: www.jlsola.com
+    - name: Email
+      value: solaj@uci.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D Candidate – Criminology, Law & Society
+      institution: University of California Irvine
+      year: 2018 – present
+      description: 
+          - 'Dissertation: “Theory with Consequents: Testing Theories of Neoliberalism in Social Research”'
+          - 'Committee: Bryan Sykes (Advisor and Chair), Charis Kubrin, Sora Han, Francesca Polletta (Outside), Justin Pickett (External)'
+          -  'Race and Justice Graduate Emphasis (directed by Ana Muñiz)'
+
+    - title: M.A. – Social Ecology
+      institution: University of California Irvine
+      year: 2018 – 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Thesis: “Transmitting Desire: An Experiment on a Novel Measure of Gun Desirability in a Pandemic”'
+
+    - title: A.B. – Social Studies, Secondary in Psychology
+      institution: Harvard University
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - 'Thesis: "Guns in the Ideal Society: Comparing the Sociopolitical Ideology of Gun Owners and Police Officers"'
+
+- title: Peer-Reviewed Publications (*denotes equal authorship)
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - 'Making the Call: How Does Perceived Race Affect Desire to Call the Police?, </br>
+         Experimental Criminology (Online First) </br>
+        Justin L. Sola and Charis E. Kubrin'
+    - year: 2029
+      items: 
+        - Max Planck Medal
+
 
 - title: Experience
   type: time_table

@@ -1,26 +1,36 @@
 ---
 layout: about
-title: About mebout
+title: About Me
 permalink: /about_me
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+nav: true
+nav_order: 2
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: small_edited_headshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+   justin.sola@uci.edu
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+On the market PhD candidate at UC Irvine’s [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) program with an emphasis in Race and Justice. I have been recognized with the 2023-24 Haynes Dissertation Fellowship, the 2022-23 [National Collaborative on Gun Violence Research Dissertation Award](https://www.ncgvr.org/grants/2022/assessing-the-causes-of-gun-desirability-in-america.html), the 2022-23 UC Irvine Public Impact Fellowship, and the 2018-23 Social Ecology Arnie Binder Fellowship. I perform fieldwork and manage datasets for the [Shadow Costs](https://www.shadowcosts.com) project, which tests the impact of rehabilitation classes and monetary sanctions (with funding by NSF, NIJ, RSF, and Haynes grants). Additionally, I am an active member of the [Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+### Service
+
+In my professional service I review for [the American Sociological Review and Criminology](https://orcid.org/0000-0002-0955-1031), and have served as an Editorial Assistant for Sociological Perspectives. My service to UC Irvine includes work as a Peer Mentor and Graduate Representative for the Criminology, Law & Society department, and as a Graduate Representative to the School of Social Ecology. In my service to the community, I provide statistics tutoring for inmates at California State Prison Solano, consult with the American Civil Liberties Union (ACLU), and work with the Federal Defenders of the 1st Circuit.
+
+
+### Prior Experience and Interests
+
+Before academia, I built models and developed strategies for technology and infrastructure companies as a consultant and data analyst. I earned my bachelors in 2014 at Harvard - with a major in [Social Studies](https://socialstudies.fas.harvard.edu/) and minor in Psychology - and wrote a senior thesis on how police and gun owners idealized gun ownership. 
+
+Outside of work, I enjoy culinary experiments (like creating my own [beef jerky recipe](https://docs.google.com/spreadsheets/d/14g3BNcLFfN2xKgDRqwK4-0S1jt4SJRSaw_OR_8raQ0g/edit?usp=sharing)), being active, and the challenge of mastering progressive metal drum parts.
